@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lezhi Figma MCP Product Design"
+  short_description: "Design Lezhi UI with design/layout MD and MCP."
+  default_prompt: "Use $lezhi-medical-figma-mcp-product-design to design or refine a Lezhi medical product screen with Pencil MCP or Figma MCP based on the bundled design and layout references."
+
+policy:
+  allow_implicit_invocation: true
